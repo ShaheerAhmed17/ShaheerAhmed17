@@ -2,7 +2,6 @@
 
 I'm a 7th semester computer science student exploring the frontiers of AI/ML, Game Development, and Quantum Computing. Passionate about building intelligent systems, interactive applications, and learning cutting-edge technologies.
 
----
 
 ## 🚀 About Me
 - 🌱 Learning and experimenting with AI/ML, Game Development, and Quantum Computing.
@@ -11,7 +10,6 @@ I'm a 7th semester computer science student exploring the frontiers of AI/ML, Ga
 - 📫 How to reach me: [gettoknowshahaeer798@@gmail.com](mailto:gettoknowshaheer798@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and challenges in my free time.
 
----
 
 ## 🛠️ Technologies & Tools
 **Languages:** Python, C++, C#, JavaScript, Q#  
@@ -21,30 +19,25 @@ I'm a 7th semester computer science student exploring the frontiers of AI/ML, Ga
 **Backend & Web Development:** .NET, Node.js, FastAPI, Flask  
 **Databases & Tools:** SQL, PostgreSQL, MongoDB, Redis, Google Sheets  
 
----
 
 ## 📂 Current Projects
 - **BookSynth** – AI-powered system converting large documents into summaries, quizzes, voice-overs, and lectures.
 
----
 
 ## 📈  GitHub Stats
 
 ![Shaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaheerAhmed17&show_icons=true&theme=radical)  
 
----
 
 ## 🏆 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheerAhmed17&layout=compact&theme=radical)  
 
----
 
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaheerAhmed17&theme=radical)
 
----
 
 ## 📊 Contributions Graph
 
@@ -53,6 +46,5 @@ I'm a 7th semester computer science student exploring the frontiers of AI/ML, Ga
 ## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/mshaheerahmed/)  
 
----
 
 > "The only way to do great work is to love what you do." – Steve Jobs
