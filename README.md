@@ -32,13 +32,13 @@ I'm a 7th semester computer science student exploring the frontiers of AI/ML, Ga
 
 ![Shaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaheerAhmed17&show_icons=true&theme=radical)  
 
---
+---
 
 ## 🏆 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheerAhmed17&layout=compact&theme=radical)  
 
---
+---
 
 ## 🔥 Streak Stats
 
