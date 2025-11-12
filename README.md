@@ -36,6 +36,10 @@ I'm a 7th semester computer science student exploring the frontiers of AI/ML, Ga
 
 ---
 
+##📊 Contributions Graph
+
+![Shaheer's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShaheerAhmed17&theme=merko&hide_border=true)
+
 ## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/mshaheerahmed/)  
 
