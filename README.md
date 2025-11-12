@@ -46,5 +46,5 @@ I'm a 7th semester computer science student exploring the frontiers of AI/ML, Ga
 ## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/mshaheerahmed/)  
 
-
-> "The only way to do great work is to love what you do." – Steve Jobs
+## ✨ Favorite Quote
+> "Strive not to be a success, but rather to be of value." – Albert Einstein
