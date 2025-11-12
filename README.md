@@ -25,10 +25,6 @@ I'm a 7th semester computer science student exploring the frontiers of AI/ML, Ga
 
 ## 📂 Current Projects
 - **BookSynth** – AI-powered system converting large documents into summaries, quizzes, voice-overs, and lectures.
-- **WhatsApp Chatbot** – Conversational assistant with FastAPI + LangGraph + Redis + Google Sheets.
-- **Odentika** – AI-driven dental SaaS platform for patient management and appointment automation.
-- **Game Dev Experiments** – Mini games and prototypes built in Unity and C#.
-- **Quantum Computing Research** – Exploring quantum algorithms and simulations using Qiskit.
 
 ---
 
