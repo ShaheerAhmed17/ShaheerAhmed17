@@ -14,10 +14,12 @@ I'm a 7th semester computer science student exploring the frontiers of AI/ML, Ga
 ---
 
 ## 🛠️ Technologies & Tools
-**Languages:** Python, C++, C#, JavaScript  
-**Frameworks & Libraries:** .NET, Node.js, FastAPI, PyTorch, LangGraph, Unity  
-**Databases & Tools:** SQL, PostgreSQL, MongoDB, Google Sheets, Redis  
-**Other Interests:** Quantum Computing (Qiskit, Cirq), Game Engines, AI Research
+**Languages:** Python, C++, C#, JavaScript, Q#  
+**AI/ML Frameworks & Libraries:** PyTorch, TensorFlow, Keras, OpenCV, scikit-learn, LangGraph  
+**Game Development Tools:** Unity, Unreal Engine, Godot, Blender  
+**Quantum Computing Tools:** Qiskit, Cirq, Pennylane  
+**Backend & Web Development:** .NET, Node.js, FastAPI, Flask  
+**Databases & Tools:** SQL, PostgreSQL, MongoDB, Redis, Google Sheets  
 
 ---
 
